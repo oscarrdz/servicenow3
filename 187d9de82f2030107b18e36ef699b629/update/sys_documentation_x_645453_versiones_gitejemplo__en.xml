@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="gitejemplo" language="en" table="x_645453_versiones_gitejemplo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>gitejemplo</label>
+            <language>en</language>
+            <name>x_645453_versiones_gitejemplo</name>
+            <plural>gitejemplos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-01 16:58:20</sys_created_on>
+            <sys_id>42d86de02f6030107b18e36ef699b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>gitejemplo</sys_name>
+            <sys_package display_value="versiones" source="x_645453_versiones">187d9de82f2030107b18e36ef699b629</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="versiones">187d9de82f2030107b18e36ef699b629</sys_scope>
+            <sys_update_name>sys_documentation_x_645453_versiones_gitejemplo__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-01 16:58:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
